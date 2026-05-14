@@ -1,0 +1,72 @@
+[
+  {
+    "conversations": [
+      {
+        "content": "Tell me about airport ATL (Hartsfield-Jackson Atlanta International). It is located in Atlanta, USA, with coordinates 33.6407 latitude and -84.4277 longitude.",
+        "role": "user"
+      },
+      {
+        "content": "Hartsfield-Jackson Atlanta International (ATL) is the primary airport in Atlanta, USA. It is one of the busiest airports in the world, serving millions of passengers annually. The airport is located at latitude 33.6407 and longitude -84.4277.",
+        "role": "assistant"
+      }
+    ],
+    "source": "airport-dataset",
+    "score": 4.8
+  },
+  {
+    "conversations": [
+      {
+        "content": "Tell me about airport PEK (Beijing Capital International). It is located in Beijing, China, with coordinates 40.0801 latitude and 116.5846 longitude.",
+        "role": "user"
+      },
+      {
+        "content": "Beijing Capital International (PEK) is the main airport serving Beijing, China. It is one of the busiest airports in the world. The airport is located at latitude 40.0801 and longitude 116.5846.",
+        "role": "assistant"
+      }
+    ],
+    "source": "airport-dataset",
+    "score": 4.8
+  },
+  {
+    "conversations": [
+      {
+        "content": "Tell me about airport DXB (Dubai International). It is located in Dubai, UAE, with coordinates 25.2528 latitude and 55.3644 longitude.",
+        "role": "user"
+      },
+      {
+        "content": "Dubai International (DXB) is the busiest airport in the UAE and one of the busiest international airports in the world. It is located at latitude 25.2528 and longitude 55.3644 in Dubai.",
+        "role": "assistant"
+      }
+    ],
+    "source": "airport-dataset",
+    "score": 4.8
+  },
+  {
+    "conversations": [
+      {
+        "content": "Tell me about airport LAX (Los Angeles International). It is located in Los Angeles, USA, with coordinates 33.9425 latitude and -118.4081 longitude.",
+        "role": "user"
+      },
+      {
+        "content": "Los Angeles International (LAX) is the primary airport in Los Angeles, USA. It is one of the busiest airports in the world and serves as a major international gateway. The airport is located at latitude 33.9425 and longitude -118.4081.",
+        "role": "assistant"
+      }
+    ],
+    "source": "airport-dataset",
+    "score": 4.8
+  },
+  {
+    "conversations": [
+      {
+        "content": "Tell me about airport HND (Tokyo Haneda). It is located in Tokyo, Japan, with coordinates 35.5494 latitude and 139.7798 longitude.",
+        "role": "user"
+      },
+      {
+        "content": "Tokyo Haneda (HND) is one of the main airports in Tokyo, Japan, serving both domestic and international flights. The airport is located at latitude 35.5494 and longitude 139.7798.",
+        "role": "assistant"
+      }
+    ],
+    "source": "airport-dataset",
+    "score": 4.8
+  }
+]
